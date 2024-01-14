@@ -4,6 +4,11 @@
 
 This is my personal portfolio webpage, showcasing my skills, projects, and contact information. The webpage is built using HTML, CSS, and JavaScript. It serves as a central hub for presenting my web development expertise and providing visitors with essential information about my professional background.
 
+## Screenshot
+![alt Screenshot](https://github.com/civilInS/codsoft_2/blob/main/img/screenshot.png)
+
+
+
 ## Features and Usage
 
 ### 1. Header 
@@ -39,6 +44,8 @@ Utilizes media queries to adjust the layout based on different screen sizes.
 
 ### 9. Footer
 Includes a copyright notice and additional social media links.
+
+![alt Screenshot](https://github.com/civilInS/codsoft_2/blob/main/img/Screenshot2.png)
  
 ### 10. Scroll Reveal Animation
 Implements the ScrollReveal library to create a smooth scrolling experience.
