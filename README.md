@@ -38,14 +38,14 @@ Displays contact information, including email and phone details.
 Links to my LinkedIn and GitHub profiles in the footer.
 GitHub icon includes additional styling for increased size.
  
-### 9. Footer
+### 8. Footer
 Includes a copyright notice and additional social media links.
 
 ![alt Screenshot](https://github.com/civilInS/codsoft_2/blob/main/img/Screenshot2.png)
  
-### 10. Scroll Reveal Animation
+### 9. Scroll Reveal Animation
 Implements the ScrollReveal library to create a smooth scrolling experience.
 
-### 11. External Libraries
+### 10. External Libraries
 Uses Boxicons for social media icons.
 Includes the ScrollReveal library for scroll animations.
