@@ -38,10 +38,6 @@ Displays contact information, including email and phone details.
 Links to my LinkedIn and GitHub profiles in the footer.
 GitHub icon includes additional styling for increased size.
  
-### 8. Responsive Design
-The webpage is designed to be responsive and mobile-friendly.
-Utilizes media queries to adjust the layout based on different screen sizes.
-
 ### 9. Footer
 Includes a copyright notice and additional social media links.
 
